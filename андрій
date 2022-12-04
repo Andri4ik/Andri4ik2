@@ -1,6 +1,7 @@
 <html>
  <body>
-<table>
+ <h1>Наш клас</h1>
+<table  border="1" bordercolor="green">
         <tr>
               <td>
                   Вадим
