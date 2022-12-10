@@ -2,6 +2,8 @@
  <body>
  <header>
  <h1 style="text-align:center; color:blue;>Наш клас</h1>
+  <p>Ходити на курси HTML дуже цікаво.</p>
+  <p>Тут можна навчитися, як робити сайти, як на них щось вставиляти різні стилі, обробляти картинки,текст та посилання.</p>
  </header>
  <main>
 <table style="border:1px solid green">
