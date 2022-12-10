@@ -4,7 +4,7 @@
  <h1 style="text-align:center; color:blue;>Наш клас</h1>
  </header>
  <main>
-<table  border="1" bordercolor="green">
+<table style="border:1px solid green">
         <tr>
               <td style="background-color:burlywood"><img src="/uploads/2020/10/soldier_0_1603274414.png" width="30px" height="30px">
                   Вадим
@@ -58,7 +58,7 @@
                   Учень
               </td>
         </tr>
-</tabl>
+</table>
 </main>
 <footer>
 <h2>Я люблю займатися курсами HTML</h2>
