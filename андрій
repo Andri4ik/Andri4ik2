@@ -1,6 +1,6 @@
 <html>
  <body>
- <h1>Наш клас</h1>
+ <h1 style="text-align:center; color:blue;>Наш клас</h1>
 <table  border="1" bordercolor="green">
         <tr>
               <td>
