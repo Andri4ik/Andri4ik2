@@ -1,6 +1,9 @@
 <html>
  <body>
+ <header>
  <h1 style="text-align:center; color:blue;>Наш клас</h1>
+ </header>
+ <main>
 <table  border="1" bordercolor="green">
         <tr>
               <td>
@@ -55,6 +58,11 @@
                   Учень
               </td>
         </tr>
-</table>
+</tabl>
+</main>
+<footer>
+<h2>Я люблю займатися курсами HTML</h2>
+<a href="https://www.google.com/search?q=logika+%D0%B2%D1%85%D0%BE%D0%B4&oq=l&aqs=chrome.1.69i57j69i59j35i39j69i59j0i131i433i512l2j46i199i433i465i512j0i433i512l2j0i131i433i512.942j0j15&sourceid=chrome&ie=UTF-8">Курси</a>
+</footer>
  </body>
 </html>
